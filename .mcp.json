@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jinxincai-printing": {
+      "type": "http",
+      "url": "https://customprintingco.com/mcp"
+    }
+  }
+}

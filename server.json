@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.customprintingco/site",
+  "title": "JinXinCai Printing Label Printing Cost & Compliance Reference",
+  "description": "Label printing cost, material and compliance guides from JinXinCai Printing, plus expert answers",
+  "version": "1.1.1",
+  "websiteUrl": "https://customprintingco.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://customprintingco.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/YangzhenRuan/jinxincai-printing-mcp",
+    "source": "github"
+  }
+}
