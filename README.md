@@ -1,5 +1,7 @@
 # JinXinCai Printing MCP server
 
+[![JinXinCai_Printing MCP connector](https://glama.ai/mcp/connectors/com.customprintingco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.customprintingco/site)
+
 **Answers custom roll label questions on digital vs flexo costs, FDA/EU MDR and food label compliance, materials and printer drift for US buyers and ops teams.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [JinXinCai Printing](https://customprintingco.com?utm_source=github&utm_medium=readme&utm_campaign=mcp): **JinXinCai Printing Label Printing Cost & Compliance Reference**. Connect it to ChatGPT, Claude or another AI assistant and it answers from JinXinCai Printing's published guides and articles, citing the page each answer comes from.
