@@ -1,6 +1,6 @@
 # JinXinCai Printing MCP server
 
-[![JinXinCai_Printing MCP connector](https://glama.ai/mcp/connectors/com.customprintingco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.customprintingco/site)
+[![JinXinCai Printing MCP connector](https://glama.ai/mcp/connectors/com.customprintingco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.customprintingco/site)
 
 **Answers custom roll label questions on digital vs flexo costs, FDA/EU MDR and food label compliance, materials and printer drift for US buyers and ops teams.**
 
